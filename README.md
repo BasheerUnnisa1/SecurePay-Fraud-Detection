@@ -8,26 +8,10 @@
 
 ---
 
-## Problem Statement
-Online financial transactions are increasingly targeted by fraudulent activities, resulting in financial losses and reduced user trust in digital platforms. 
-Many existing systems lack the ability to detect suspicious transactions in real time, making effective prevention challenging.
-
----
-
 ## Project Overview
-SecurePay is an AI-powered fraud detection system designed to monitor and analyze transaction behavior in real time. The system evaluates transaction amount, frequency, location, and historical user activity to identify suspicious patterns and anomalies.
+SecurePay is an AI-powered fraud detection system designed to identify suspicious financial transactions in real time using machine learning and behavioral pattern analysis.
 
-SecurePay provides fraud prediction, dynamic risk scoring, and explanation-based alerts to help users and institutions take immediate preventive action.
-
----
-
-## Key Features
-- Fraud / Not Fraud Prediction
-- Dynamic Risk Scoring System (0–100)
-- Real-time Transaction Analysis
-- Behavioral Pattern Detection
-- Visual Alerts and Explanations
-- Transaction Data Storage
+The system analyzes transaction amount, frequency, location, and user history to detect anomalies and generate fraud predictions with dynamic risk scores.
 
 ---
 
@@ -42,10 +26,13 @@ SecurePay provides fraud prediction, dynamic risk scoring, and explanation-based
 
 ---
 
-## Dataset
-Kaggle Credit Card Fraud Detection Dataset
+## Key Features
+- Fraud / Not Fraud Prediction
+- Risk Score Generation
+- Real-time Transaction Analysis
+- Visual Alerts and Explanations
 
 ---
 
-## SDG Alignment
-SDG 16 – Peace, Justice & Strong Institutions
+## Dataset
+Kaggle Credit Card Fraud Detection Dataset
