@@ -3,8 +3,8 @@
 ## Developed by Team Nexora
 
 ### Team Members
-- Your Name
-- Teammate Name
+- Shaik Basheer Unnisa
+- Yalala Manisha 
 
 ---
 
